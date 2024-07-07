@@ -1,2 +1,2 @@
 # mango
-shiny leverageable ML code 
+shiny leverageable ML code, more to be incrementally added.
